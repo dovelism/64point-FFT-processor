@@ -1,0 +1,1 @@
+this is our code in Matlab. Using the function"point64radix4", you do FFT for 64 points.And our code is based on Cooley-Tukey Algorithm.It's of radix-4,for 64=4*4*4.this is our code in Matlab. Using the function"point64radix4", you do FFT for 64 points.And our code is based on Cooley-Tukey Algorithm.It's of radix-4,for 64=4*4*4.
